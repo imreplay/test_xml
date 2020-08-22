@@ -1,1 +1,1 @@
-$conn
+<?php echo 1; ?>
