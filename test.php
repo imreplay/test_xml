@@ -1,1 +1,1 @@
-<?php echo 1; ?>
+"/><script>alert("hi");</script>
